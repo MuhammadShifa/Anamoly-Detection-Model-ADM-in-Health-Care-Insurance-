@@ -4,7 +4,6 @@ The primary motivation for the Horovod project is to make it easy to take a sing
 
 For more detail click on [Horovod with Keras Deocumentation](https://horovod.readthedocs.io/en/stable/summary_include.html)
 
-This file contain project of MNIST Dataset Classification with keras and horovod and all the necessary steps which are required to use horovd with keras in our project.
-
+Anamoly Detection in Health Care Insurance Dataset.
 
 
